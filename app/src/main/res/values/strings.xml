@@ -1,7 +1,15 @@
 <resources>
-    <string name="app_name">Our_Facultime</string>
+    <string name="app_name">Facultime!</string>
 
     <string name="title_activity_fullscreen">FullscreenActivity</string>
-    <string name="dummy_button">Dummy Button</string>
-    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <!--Buttons-->
+        <string name="challenge_friend_button">Challenge a friend!</string>
+
+
+
+    <!--dummy content-->
+        <string name="dummy_button">Dummy Button</string>
+        <string name="dummy_content">DUMMY\nCONTENT</string>
+
 </resources>
